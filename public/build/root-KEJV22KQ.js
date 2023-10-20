@@ -1,0 +1,1 @@
+import{b as e,d as o,f as r}from"/build/_shared/chunk-GMDPLHWE.js";var t=e(r());function a(){return(0,t.jsxs)("html",{children:[(0,t.jsx)("head",{children:(0,t.jsx)("link",{rel:"icon",href:"data:image/x-icon;base64,AA"})}),(0,t.jsxs)("body",{children:[(0,t.jsx)("h1",{children:"Axend Platform"}),(0,t.jsx)(o,{}),(0,t.jsx)(Scripts,{})]})]})}export{a as default};

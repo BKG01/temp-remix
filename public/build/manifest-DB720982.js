@@ -1,0 +1,1 @@
+window.__remixManifest={"entry":{"module":"/build/entry.client-5B2LIE7D.js","imports":["/build/_shared/chunk-GMDPLHWE.js"]},"routes":{"root":{"id":"root","path":"","module":"/build/root-KEJV22KQ.js","hasAction":false,"hasLoader":false,"hasErrorBoundary":false}},"version":"db720982","url":"/build/manifest-DB720982.js"};
